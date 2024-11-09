@@ -1,2 +1,2 @@
 # GREEN-TEC
- Projeto de extensão da minha faculdade onde ultilizei html, css e bootstrap.
+ Projeto de extensão da minha faculdade onde eu ultilizei um pouco do Bootstrap.
